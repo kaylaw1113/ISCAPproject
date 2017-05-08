@@ -1,0 +1,199 @@
+{
+    "Schedule": [{
+        "eventId": "001",
+        "eventType": "Meal",
+        "mealType": "Breakfast",
+        "startTime": "07: 00: 00",
+        "endTime": "08: 00: 00",
+        "room": "cafeteria",
+        "chair": "You",
+        "subjectArea": "",
+        "eventTitle": "Breakfast",
+        "date": "11/5/2017",
+        "Presenter": [{
+            "firstName": "",
+            "lastName": "",
+            "affiliation": ""
+        }],
+        "customLabel": "Breakfast",
+        "note": "Communal Breakfast"
+    },
+	{
+        "eventId": "002",
+        "eventType": "Lecture",
+        "mealType": "",
+        "startTime": "08: 00: 00",
+        "endTime": "09: 00: 00",
+        "room": "CC207",
+        "chair": "Jeffry Babb",
+        "subjectArea": "Mobile Programming",
+        "eventTitle": "Ionic and its uses",
+        "date": "11/5/2017",
+        "Presenter": [{
+            "firstName": "Jeffry",
+            "lastName": "Babb",
+            "affiliation": "WTAMU"
+        }, {
+            "firstName": "Kareem",
+            "lastName": "Dana",
+            "affiliation": "WTAMU"
+        }],
+        "customLabel": "Ionic Lecture",
+        "note": "Learn about Ionic and its uses in mobile programming"
+    },
+	{
+        "eventId": "003",
+        "eventType": "Meal",
+        "mealType": "Lunch",
+        "startTime": "12: 00: 00",
+        "endTime": "13: 00: 00",
+        "room": "cafeteria",
+        "chair": "",
+        "subjectArea": "",
+        "eventTitle": "Lunch",
+        "date": "11/6/2017",
+        "Presenter": [{
+            "firstName": "",
+            "lastName": "",
+            "affiliation": ""
+        }],
+        "customLabel": "Lunch",
+        "note": "Communal Lunch"
+    },
+	{
+        "eventId": "004",
+        "eventType": "Lecture",
+        "mealType": "",
+        "startTime": "13: 00: 00",
+        "endTime": "14: 00: 00",
+        "room": "CC205",
+        "chair": "Sean Humphreys",
+        "subjectArea": "Javascript",
+        "eventTitle": "Why it's important",
+        "date": "11/6/2017",
+        "Presenter": [{
+            "firstName": "Sean",
+            "lastName": "Humphreys",
+            "affiliation": "WTAMU"
+        }, {
+            "firstName": "Denise",
+            "lastName": "Philpot",
+            "affiliation": "WTAMU"
+        }],
+        "customLabel": "Javascript Lecture",
+        "note": "Learn about Javascript and its uses in programming"
+    },
+	{
+        "eventId": "005",
+        "eventType": "Lecture",
+        "mealType": "",
+        "startTime": "15: 00: 00",
+        "endTime": "16: 00: 00",
+        "room": "CC207",
+        "chair": "Emily Gross",
+        "subjectArea": "Marketing CIS",
+        "eventTitle": "How to market your department",
+        "date": "11/7/2017",
+        "Presenter": [{
+            "firstName": "Emily",
+            "lastName": "Gross",
+            "affiliation": "WTAMU"
+        }
+		],
+        "customLabel": "Marketing Lecture",
+        "note": "Learn about Marketing and its uses in mobile programming"
+    },
+	{
+        "eventId": "006",
+        "eventType": "Meal",
+        "mealType": "Supper",
+        "startTime": "18: 00: 00",
+        "endTime": "19: 00: 00",
+        "room": "cafeteria",
+        "chair": "",
+        "subjectArea": "",
+        "eventTitle": "Supper",
+        "date": "11/7/2017",
+        "Presenter": [{
+            "firstName": "",
+            "lastName": "",
+            "affiliation": ""
+        }],
+        "customLabel": "Supper",
+        "note": "Communal supper"
+    }],
+
+    "Save": [{
+        "eventId": "",
+        "eventType": "",
+        "mealType": "",
+        "startTime": "00: 00: 00",
+        "endTime": "00: 00: 00",
+        "room": "",
+        "chair": "",
+        "subjectArea": "",
+        "eventTitle": "",
+        " date": "",
+        "Presenter": [{
+            "firstName": "",
+            "lastName": "",
+            "affiliation": ""
+        }
+		],
+        "customLabel": "",
+        "note": ""
+    } ],
+
+    "message": [{
+        "messageId": "",
+        "title": "",
+        "messageText": "",
+        "dateTime": "",
+        "category": "",
+        "photo": "",
+        "link": ""
+    }],
+    "other": [
+		{
+			"speakerID": "101",
+			"firstName": "Jeffry",
+            "lastName": "Babb",
+            "affiliation": "WTAMU",
+			"bio": "From Hawaii, super cool",
+			"picture": ""
+		},
+		{
+			"speakerID": "102",
+			"firstName": "Kareem",
+            "lastName": "Dana",
+            "affiliation": "WTAMU",
+			"bio": "From somewhere, cool too",
+			"picture": ""
+		},
+		{
+			"speakerID": "103",
+			"firstName": "Sean",
+            "lastName": "Humphreys",
+            "affiliation": "WTAMU",
+			"bio": "From somewhere else, cool too",
+			"picture": ""
+		},
+		{
+			"speakerID": "104",
+			"firstName": "Denise",
+            "lastName": "Philpot",
+            "affiliation": "WTAMU",
+			"bio": "From somewhere, cool too",
+			"picture": ""
+		},
+		{
+			"speakerID": "105",
+			"firstName": "Emily",
+            "lastName": "Gross",
+            "affiliation": "WTAMU",
+			"bio": "From somewhere, cool too",
+			"picture": ""
+		}
+    ]
+
+}
